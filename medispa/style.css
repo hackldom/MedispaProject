@@ -1,0 +1,28 @@
+ body{
+	background-color: #EEE;
+}
+#clients_table{
+	background-color: #77b874;
+	border-radius: 15px;
+	margin: auto;
+}
+
+.form_container{
+	width:250px;
+
+
+}
+#login_container{
+
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+#sign_in{
+	margin: 0px auto;
+	padding:15px;
+	background-color:#EEE;
+	width:400px;
+}

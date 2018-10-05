@@ -1,0 +1,28 @@
+PAGES:
+
+login.php - it lets the user log in to the system
+index.php - the home page of the system, you get redirected here when you log into the system
+
+added.php - SHOP - adds an item to your cart
+booking.php - BOOKING - creates the booking
+cart.php - SHOP - displays all of the items you are about to buy
+checkout.php -SHOP - it puts all of the cart info into the database, and resets the Cart
+clientadded.php - CLIENT - adds a new client to the database, and it checks if all of the forms have been filled out
+connect.php - DATABASE - connects the project with the database, and it is the place where all of the functions are stored
+contactform.html - EMAIL - form that users of the system can fill out and then send their comments to the super admin
+emails.php - FORUM - this is where the receptionists and the therapist can communicate, this shows the all of the posts
+goodbye.php - SHOP - this lets the user log off, and it then resets the cart
+index.php - home page of the system
+login.php - lets the users log in to the system
+newbooking.php - BOOKING - this is where receptionists can create new bookings
+newclient.php - CLIENT - receptionists can add new clients to the system using this
+post_action.php - FORUM - validates the input and if there were no errors puts the data into the database, and redirects the page
+search.php - SEARCH - it displays the search results from the database
+send_form_email.php - EMAIL - validates the email, using if statements and RegEx, and then sends it off
+sendemail.php - FORUM - form that users fill out to write a post onto the forum
+services.php -  displays all of the available services currently at the medispa, that user can book
+shop.php - SHOP - shows all of the available products sold at the medispa that can be bought, links to put these into the Cart
+stats.php - STATS - graphical and non-graphical data analysis
+viewbookings.php - BOOKINGS - shows all of the bookings
+viewdata.php - CLIENT - shows all of the clients' information
+viewstaff.php - STAFF - shows all of the staffs' data
